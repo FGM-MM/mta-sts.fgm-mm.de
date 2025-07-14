@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
 max_age: 86400
-mx: fgmautomobil-de0i.mail.protection.outlook.com.
-mx: smtpin.rzone.de
+mx: fgmmm-de0i.mail.protection.outlook.com
