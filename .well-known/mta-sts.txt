@@ -1,4 +1,6 @@
 version: STSv1
 mode: enforce
 max_age: 86400
-mx: fgmmm-de0i.mail.protection.outlook.com
+mx: *.mail.protection.outlook.com
+mx: *.prod.hydra.sophos.com
+max_age: 604800
